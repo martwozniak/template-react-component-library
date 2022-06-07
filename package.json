@@ -1,5 +1,5 @@
 {
-  "name": "template-react-component-library",
+  "name": "@martwozniak/template-react-component-library",
   "version": "1.0.0",
   "author": "Mart Wozniak",
   "license": "MIT",
@@ -23,5 +23,12 @@
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts"
+  "types": "dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/martwozniak/template-react-component-library.git",
+    "type": "git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/martwozniak"
+  }
 }

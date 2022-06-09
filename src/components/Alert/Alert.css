@@ -3,3 +3,15 @@
     background-color: red;
     color: white;
 }
+
+.success {
+    padding: 1.5rem;
+    background-color: green;
+    color: white;
+}
+
+.info {
+    padding: 1.5rem;
+    background-color: rgba(255, 187, 0, 0.808);
+    color: white;
+}

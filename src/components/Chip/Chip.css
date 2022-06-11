@@ -1,0 +1,23 @@
+.danger {
+    padding: 0.2rem;
+    background-color: red;
+    color: white;
+}
+
+.success {
+    padding: .2rem;
+    background-color: green;
+    color: white;
+}
+
+.info {
+    padding: 0.2rem;
+    background-color: rgba(255, 187, 0, 0.808);
+    color: white;
+}
+
+.black {
+    padding: 0.2rem;
+    background-color: rgba(0, 0, 0, 0.808);
+    color: white;
+}

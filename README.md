@@ -20,7 +20,7 @@ $ npm i @martwozniak/template-react-component-library
 |---|:-:|
 | Button |  ✅ |
 | Alert |  ✅ |
-| Chip  |   |
+| Chip  |  ✅ |
 | Accordion  |   |
 | Dropdown  |   |
 | Hamburger  |   |
@@ -55,6 +55,19 @@ $ npm i @martwozniak/template-react-component-library
 | Contact |   |
 | About |   |
 
+## Storybook
+
+To preview all predefined components you need to run: 
+
+ ```shell
+$ yarn storybook
+
+# or
+
+$ npm run storybook
+ ```
+
+ Storybook will work on `port: 6006`.
 
 #blazingfast
 #componentlibrary

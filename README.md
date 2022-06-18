@@ -21,7 +21,7 @@ $ npm i @martwozniak/template-react-component-library
 | Button |  ✅ | |
 | Alert |  ✅ | |
 | Chip  |  ✅ | |
-| Accordion  |   | |
+| Accordion  |  ✅ | |
 | Dropdown  |  ✅ | |
 | Hamburger  |   | |
 | Input  |   | |

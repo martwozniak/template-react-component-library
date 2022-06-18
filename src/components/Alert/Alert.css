@@ -15,3 +15,9 @@
     background-color: rgba(255, 187, 0, 0.808);
     color: white;
 }
+
+.dark {
+    padding: 1.5rem;
+    background-color: rgba(15, 12, 4, 0.808);
+    color: white;
+}
